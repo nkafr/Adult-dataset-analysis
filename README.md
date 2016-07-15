@@ -7,10 +7,11 @@ Implementation of logistic regression is based on notes by Stanford's Machine Le
 # How to run the code
 
 Make sure the following libraries have been  installed. Run:
-```install.packages("ROCR")  
+```R
+   install.packages("ROCR")  
    install.packages("glmnet")
    install.packages("ggplot2") 
-   install.packages("reshape2")``` 
+   install.packages("reshape2") 
 
 Finally run the ```Project.R``` script file
 
