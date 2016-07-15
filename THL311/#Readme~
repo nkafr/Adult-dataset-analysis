@@ -1,0 +1,24 @@
+####1 Install R and Rstudio
+
+Mias kai egw xrhsimopoiw ta ubuntu akolouthisa ti odhgies se auto to link: http://www.r-bloggers.com/download-and-install-r-in-ubuntu/
+Apla katevasa to r-base kai to rstudio apo to ubuntu software center xwris na xrhsimopoihsw katholou command line
+to RKWard pou leei sto telos den xreiazetai
+
+####2 To kentriko arxeio einai pou kalei oles tis synarthseis einai to Project.R
+
+Anoigoume to Project.R arxeio (me Rstudio kalytera) kai sthn grammh 5 setaroume to working environment se auto pou vrisketai 
+twra o fakelos tou project ston ypologisth
+
+####3 Katevazoume tis ekseis vivliothikes plhktrologwntas apla sto Rstudio mia-mia tis entoles:
+
+install.packages("ROCR")
+install.packages("glmnet")
+install.packages("ggplot2")
+install.packages("reshape2")
+
+
+####4 Telos sto Rstudio kai enw exoume anoigmeno to Project.R sthn panw deskia gwnia patame source kai
+trexei olo to Project. Sthn katw deksia gwnia tha emfanistoun 2 plots. 
+
+Gia opoiodhpote thema email at nik.kafr@gmail.com
+
