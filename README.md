@@ -11,7 +11,7 @@ Make sure the following libraries have been  installed. Run:
    install.packages("ROCR")  
    install.packages("glmnet")
    install.packages("ggplot2") 
-   install.packages("reshape2") 
+   install.packages("reshape2")``` 
 
-Finally run the ```Project.R``` script file
+Finally run the Project.R script file 
 
