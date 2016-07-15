@@ -2,7 +2,7 @@
 
 A custom logistic regression classifier in R which predicts salary using the popular Adult dataset (US Census database)  
 The dataset can be found at https://archive.ics.uci.edu/ml/datasets/Adult  
-Implementation of logistic regression is based on notes by Stanford's Machine Learning graduate course http://cs229.stanford.edu/extra-notes/loss-functions.pdf 
+Implementation of logistic regression is based on notes by Stanford's Machine Learning graduate course http://cs229.stanford.edu/extra-notes/loss-functions.pdf
 
 # How to run the code
 
